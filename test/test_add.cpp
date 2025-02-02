@@ -1,4 +1,4 @@
-#include "lib_raColTest/macros.h"
+#include "macros.h"
 #include "add.h"
 
 int main(int, char** argv) {
